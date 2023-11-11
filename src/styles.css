@@ -1,0 +1,36 @@
+/* styles.css */
+.html {
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background: #eee;
+  padding: 0;
+}
+
+.app {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.user-form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.user-search {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: right;
+  padding: "5px";
+  border: "1px solid gray";
+}
+
+.user-list {
+  margin-bottom: 30px;
+}
